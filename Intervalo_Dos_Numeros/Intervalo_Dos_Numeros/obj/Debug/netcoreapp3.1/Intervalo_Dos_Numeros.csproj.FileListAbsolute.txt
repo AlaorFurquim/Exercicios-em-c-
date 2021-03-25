@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.exe
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.deps.json
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.runtimeconfig.json
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.dll
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\bin\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.pdb
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.dll
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.pdb
+C:\Users\Admin\source\repos\Intervalo_Dos_Numeros\Intervalo_Dos_Numeros\obj\Debug\netcoreapp3.1\Intervalo_Dos_Numeros.genruntimeconfig.cache

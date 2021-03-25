@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.exe
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.deps.json
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.runtimeconfig.json
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.dll
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\bin\Debug\netcoreapp3.1\Hora_Jogadas.pdb
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.dll
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.pdb
+C:\Users\Admin\source\repos\Hora_Jogadas\Hora_Jogadas\obj\Debug\netcoreapp3.1\Hora_Jogadas.genruntimeconfig.cache

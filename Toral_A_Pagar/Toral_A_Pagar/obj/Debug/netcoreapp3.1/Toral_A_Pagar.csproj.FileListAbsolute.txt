@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.exe
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.deps.json
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.runtimeconfig.json
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.dll
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\bin\Debug\netcoreapp3.1\Toral_A_Pagar.pdb
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.dll
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.pdb
+C:\Users\Admin\source\repos\Toral_A_Pagar\Toral_A_Pagar\obj\Debug\netcoreapp3.1\Toral_A_Pagar.genruntimeconfig.cache

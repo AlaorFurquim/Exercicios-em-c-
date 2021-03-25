@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.exe
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.deps.json
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.runtimeconfig.json
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.dll
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\bin\Debug\netcoreapp3.1\Plano_Cartesiano.pdb
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.dll
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.pdb
+C:\Users\Admin\source\repos\Plano_Cartesiano\Plano_Cartesiano\obj\Debug\netcoreapp3.1\Plano_Cartesiano.genruntimeconfig.cache

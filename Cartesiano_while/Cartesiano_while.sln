@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cartesiano_while", "Cartesiano_while\Cartesiano_while.csproj", "{F8E7683B-222A-4DAE-A741-F0EE4ED4834E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8E7683B-222A-4DAE-A741-F0EE4ED4834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E7683B-222A-4DAE-A741-F0EE4ED4834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E7683B-222A-4DAE-A741-F0EE4ED4834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E7683B-222A-4DAE-A741-F0EE4ED4834E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2C8474-4B4B-493A-8E2C-6AB847215768}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.exe
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.deps.json
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.runtimeconfig.json
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.dll
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\bin\Debug\netcoreapp3.1\Controle_Posto_Combustivel.pdb
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.dll
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.pdb
+C:\Users\Admin\source\repos\Controle_Posto_Combustivel\Controle_Posto_Combustivel\obj\Debug\netcoreapp3.1\Controle_Posto_Combustivel.genruntimeconfig.cache

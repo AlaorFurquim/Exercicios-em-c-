@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.exe
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.deps.json
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.runtimeconfig.json
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.dll
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\bin\Debug\netcoreapp3.1\Cartesiano_while.pdb
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.dll
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.pdb
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Cartesiano_while\Cartesiano_while\obj\Debug\netcoreapp3.1\Cartesiano_while.csprojAssemblyReference.cache

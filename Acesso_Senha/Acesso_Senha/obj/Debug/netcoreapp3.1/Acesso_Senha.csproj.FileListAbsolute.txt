@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.exe
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.deps.json
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.runtimeconfig.json
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.dll
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\bin\Debug\netcoreapp3.1\Acesso_Senha.pdb
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.dll
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.pdb
+C:\Users\Admin\source\repos\Acesso_Senha\Acesso_Senha\obj\Debug\netcoreapp3.1\Acesso_Senha.genruntimeconfig.cache

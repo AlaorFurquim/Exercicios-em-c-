@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.exe
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.deps.json
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.runtimeconfig.json
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.dll
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\bin\Debug\netcoreapp3.1\Aluguel_De_Carros.pdb
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.dll
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.pdb
+C:\Users\Admin\source\repos\Aluguel_De_Carros\Aluguel_De_Carros\obj\Debug\netcoreapp3.1\Aluguel_De_Carros.genruntimeconfig.cache
